@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BrandonIW
 - 👀 I’m interested in Python & Cybersecurity
-- 🌱 I’m currently learning Python
 
 
 <!---
